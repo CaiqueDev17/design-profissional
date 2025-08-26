@@ -4,7 +4,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **Global Insights AI** é um projeto desenvolvido para fins acadêmicos, que simula uma aplicação de Inteligência Artificial capaz de:
+O **Mundo em Foco** é um projeto desenvolvido para fins acadêmicos, que simula uma aplicação de Inteligência Artificial capaz de:
 
 * Reunir informações de múltiplas fontes (notícias, relatórios e artigos)
 * Organizar os conteúdos em um só lugar
